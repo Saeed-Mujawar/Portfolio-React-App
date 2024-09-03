@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React-App/static/css/main.aac49f6e.css",
+    "main.js": "/Portfolio-React-App/static/js/main.f0015576.js",
+    "static/js/453.cc683603.chunk.js": "/Portfolio-React-App/static/js/453.cc683603.chunk.js",
+    "static/media/avatar1.png": "/Portfolio-React-App/static/media/avatar1.9e96f1aaae74ae4d0101.png",
+    "static/media/home-main.svg": "/Portfolio-React-App/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/logo.png": "/Portfolio-React-App/static/media/logo.e7d5ecbf65c01896555d.png",
+    "static/media/about.png": "/Portfolio-React-App/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/SaeedMujawarResume.pdf": "/Portfolio-React-App/static/media/SaeedMujawarResume.1453159e07e116570da5.pdf",
+    "static/media/chatify.png": "/Portfolio-React-App/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Portfolio-React-App/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio-React-App/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio-React-App/index.html",
+    "main.aac49f6e.css.map": "/Portfolio-React-App/static/css/main.aac49f6e.css.map",
+    "main.f0015576.js.map": "/Portfolio-React-App/static/js/main.f0015576.js.map",
+    "453.cc683603.chunk.js.map": "/Portfolio-React-App/static/js/453.cc683603.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac49f6e.css",
+    "static/js/main.f0015576.js"
+  ]
+}
