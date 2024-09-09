@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio-React-App/static/css/main.7afe07a6.css",
-    "main.js": "/Portfolio-React-App/static/js/main.0357b315.js",
+    "main.js": "/Portfolio-React-App/static/js/main.db64818a.js",
     "static/js/453.cc683603.chunk.js": "/Portfolio-React-App/static/js/453.cc683603.chunk.js",
     "static/media/avatar1.png": "/Portfolio-React-App/static/media/avatar1.9e96f1aaae74ae4d0101.png",
     "static/media/portfolio.png": "/Portfolio-React-App/static/media/portfolio.36a9e9618582dc30d4aa.png",
     "static/media/home-main.svg": "/Portfolio-React-App/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/logo.png": "/Portfolio-React-App/static/media/logo.e7d5ecbf65c01896555d.png",
     "static/media/about.png": "/Portfolio-React-App/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/SaeedMujawarResume.pdf": "/Portfolio-React-App/static/media/SaeedMujawarResume.9989a28655801dfe14a3.pdf",
+    "static/media/SaeedMujawarResume.pdf": "/Portfolio-React-App/static/media/SaeedMujawarResume.a1bc835b2fba23e25200.pdf",
     "static/media/transactionManagement.png": "/Portfolio-React-App/static/media/transactionManagement.e128ba38ca2f4c7484b2.png",
     "static/media/home-bg.jpg": "/Portfolio-React-App/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/ticTacToe.png": "/Portfolio-React-App/static/media/ticTacToe.6a6ffe9a4a5785ddde6d.png",
     "static/media/pre.svg": "/Portfolio-React-App/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio-React-App/index.html",
     "main.7afe07a6.css.map": "/Portfolio-React-App/static/css/main.7afe07a6.css.map",
-    "main.0357b315.js.map": "/Portfolio-React-App/static/js/main.0357b315.js.map",
+    "main.db64818a.js.map": "/Portfolio-React-App/static/js/main.db64818a.js.map",
     "453.cc683603.chunk.js.map": "/Portfolio-React-App/static/js/453.cc683603.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7afe07a6.css",
-    "static/js/main.0357b315.js"
+    "static/js/main.db64818a.js"
   ]
 }
