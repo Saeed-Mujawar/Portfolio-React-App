@@ -5,7 +5,6 @@ import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
@@ -26,7 +25,7 @@ function Home2() {
               <br />
               <br />I am fluent in core technologies such as
               <i>
-                <b className="purple"> Python, Javascript and PostgreSQL . </b>
+                <b className="purple"> Python, Javascript, PostgreSQL and MongoDB. </b>
               </i>
               <br />
               <br />

@@ -6,7 +6,9 @@ import portfolio from "../../Assets/Projects/portfolio.png";
 import snakeGame from "../../Assets/Projects/snakeGame.png";
 import transactionManagement from "../../Assets/Projects/transactionManagement.png";
 import ticTacToe from "../../Assets/Projects/ticTacToe.png";
-
+import whatsappDm from "../../Assets/Projects/whatsappDM.png";
+import bookportal from "../../Assets/Projects/bookPortalApp.png";
+import contactManagement from "../../Assets/Projects/contactManagementApp.png";
 
 function Projects() {
   return (
@@ -21,12 +23,56 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={bookportal}
+              title="Book Portal App"
+              description={
+                <>
+                  An inclusive API built with FastAPI that enables users to manage books, reviews, and tags efficiently. This application provides a secure and robust platform with various functionalities for both users and administrators.
+                  
+                  <br /><br />
+                  
+                  (Initial loading may take up to 2 min. due to free hosting)
+                </>
+              }
+              
+              ghLink="https://github.com/Saeed-Mujawar/book-review-api"
+              demoLink="https://book-review-api-k7hl.onrender.com/docs"
+            />
+          </Col>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={transactionManagement}
               title="Transaction Management App"
-              description="Our application is designed to make tracking your financial transactions a breeze. Whether you’re managing personal expenses or monitoring income, our user-friendly platform helps you keep everything organized. With our app, you can effortlessly categorize and record each transaction, making it simple to review your financial history and stay on top of your budget. Experience a streamlined approach to financial management designed to meet your everyday needs."
-              ghfLink="https://github.com/Saeed-Mujawar/finance-management-app-frontend"
+              description={
+                <>
+                  Our application is designed to make tracking your financial transactions a breeze. Whether you’re managing personal expenses or monitoring income, our user-friendly platform helps you keep everything organized. With our app, you can effortlessly categorize and record each transaction, making it simple to review your financial history and stay on top of your budget. Experience a streamlined approach to financial management designed to meet your everyday needs.
+          
+                  <br /><br />
+          
+                  (Initial loading may take up to 2 min. due to free hosting)
+                </>
+              }              ghfLink="https://github.com/Saeed-Mujawar/finance-management-app-frontend"
               ghbLink="https://github.com/Saeed-Mujawar/finance-management-app-backend"
               demoLink="https://finance-management-app-frontend.onrender.com/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={contactManagement}
+              title="Contact Management App"
+              description={
+                <>
+                  A robust backend API built with Node.js, Express.js, and MongoDB that enables efficient management of contact 
+                  information. This application supports various operations for creating, reading, updating, and deleting contacts. 
+                  
+                  <br /><br />
+                  
+                  (Initial loading may take up to 2 min. due to free hosting)
+                </>
+              }
+              ghLink="https://github.com/Saeed-Mujawar/contact-management-apis"
+              demoLink="https://contact-management-app-rtck.onrender.com/docs"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -57,6 +103,18 @@ function Projects() {
               
               ghLink="https://github.com/Saeed-Mujawar/Portfolio-React-App"
               demoLink="https://saeed-mujawar.github.io/Portfolio-React-App/"
+            />
+          </Col>
+          
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={whatsappDm}
+              title="WhatsApp DM Redirector"
+              description="A React application that enables users to send messages to WhatsApp numbers not saved in their contacts directly from a web interface. Users can enter phone numbers, and the app seamlessly redirects to WhatsApp with a single click, while also maintaining a history of all redirected numbers."
+              
+              ghLink="https://github.com/Saeed-Mujawar/whatsapp-dm-redirector"
+              demoLink="https://saeed-mujawar.github.io/whatsapp-dm-redirector/"
             />
           </Col>
           

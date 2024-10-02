@@ -1,19 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {
-  DiJavascript1,
-  DiReact,
-  DiPython,
-  DiGit,
-  DiHtml5,
-  DiCss3,
-  DiBootstrap
-} from "react-icons/di";
-import {
-  SiRedis,
-  SiPostgresql,
-  SiApifox
-} from "react-icons/si";
 
 function Techstack() {
   return (
@@ -53,6 +39,15 @@ function Techstack() {
       </Col>     
       <Col xs={5} md={2} className="tech-icons">
         <h2>Redis</h2>
+      </Col>
+      <Col xs={5} md={2} className="tech-icons">
+        <h2>Express</h2>
+      </Col>
+      <Col xs={5} md={2} className="tech-icons">
+        <h2>Node.js</h2>
+      </Col>
+      <Col xs={5} md={2} className="tech-icons">
+        <h2>MongoDB</h2>
       </Col>
     </Row>
   );

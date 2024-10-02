@@ -10,6 +10,7 @@ function Type() {
           "Open Source Contributor",
           "Backend Developer",
           "Frontend Developer",
+          "MERN Stack Developer"
         ],
         autoStart: true,
         loop: true,

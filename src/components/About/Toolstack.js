@@ -4,12 +4,10 @@ import {
   SiVisualstudiocode,
   SiPostman,
   SiRender,
-  SiVercel,
   SiWindows10,
   SiSwagger,
   SiGit,
   SiJira,
-  SiFigma,
   SiDocker,
   SiCelery,
   SiDbeaver,
@@ -46,11 +44,7 @@ function Toolstack() {
         <SiJira />
         <h2>Jira</h2>
       </Col>    
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFigma />
-        <h2>Figma</h2>
-      </Col>    
-    
+     
       <Col xs={4} md={2} className="tech-icons">
         <SiDocker />
         <h2>Docker</h2>
